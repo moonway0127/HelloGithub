@@ -15,5 +15,6 @@
         android:gravity="center"
         android:text="I hope to be a good programmer.Stands above the top of China, add luster to the motherland software industry."
 
+
         />
 </RelativeLayout>
